@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My main field of research and teaching is spatial analysis of social facts ... applied to ...geography, sociology, demography, economy, history, political science, media studies ...
+bio: My main field of research and teaching is spatial analysis of social facts applied to various disciplines (geography, sociology, demography, economy, history, political science, media studies ...)
 
 interests:
 - Spatial Analysis
@@ -65,6 +65,4 @@ user_groups:
 - Visitors
 ---
 
-Claude Grasland is ...
-
- 
+Claude Grasland born in 1963, was received 1st rank (option History and Geography) at the Ecole Normale Supérieure FSC in 1983. He holds two licence degree, in history and geography in 1985. He holds a Masters Degree in Geography from the University Paris 1 in 1987. He holds a Doctorate in Geography from the University Paris 1 (Political systems and demographic trends in Europe, 1950-1985) in 1991, and received the Médaille de Bronze from CNRS for this PhD thesis. He holds finally and a Habilitation from the university Paris 1 (Contribution to the geographical analysis of borders and administrative divisions) in 1997 and was appointed full professor in 1999 at the chair of Professor of Human Geography at University Paris Diderot-Paris 7 where he held that position until present.
