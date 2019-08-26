@@ -1,0 +1,24 @@
+---
+title: Premiers pas en statistiques avec R
+author: Claude Grasland
+date: '2019-08-26'
+slug: Statr
+categories:
+  - Statistics
+tags:
+  - Statistics
+  - R
+subtitle: 'Un vieux classique'
+summary: ''
+authors: []
+lastmod: '2019-08-26T07:47:32+02:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+- [Page Web]https://claudegrasland.github.io/StatR/index.html
+- [Sources]https://github.com/ClaudeGrasland/StatR 
+
